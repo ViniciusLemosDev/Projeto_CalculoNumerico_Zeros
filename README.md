@@ -30,30 +30,40 @@ Bissecção	Intervalar	Robusto e garantido, mas lento
 Falsa Posição	Intervalar	Melhor aproximação que a Bissecção
 Newton-Raphson	Ponto Fixo (com derivada)	Extremamente rápido, depende da derivada
 Secante	Ponto Fixo (sem derivada)	Boa alternativa ao Newton-Raphson
+
 🚀 Como Executar o Projeto
+
 1️⃣ Clone o Repositório
 `git clone https://github.com/ViniciusLemosDev/Projeto_CalculoNumerico_Zeros.git
+
 cd Projeto_CalculoNumerico_Zeros`
 
 
 💡 **O repositório já contém todas as dependências necessárias listadas em requirements.txt.**
 
 2️⃣ (Opcional) Crie e Ative um Ambiente Virtual
+
 `python -m venv venv
+
 venv\Scripts\activate   # no Windows
+
 source venv/bin/activate  # no Linux/Mac`
 
 3️⃣ Instale as Dependências
+
 `pip install -r requirements.txt`
 
 4️⃣ Execute o Aplicativo
+
 `streamlit run app.py`
 
 
 Acesse no navegador: http://localhost:8501
 
 📂 Estrutura do Projeto
+
 `📁 Projeto_CalculoNumerico_Zeros
+
 ├── app.py                # Interface principal do Streamlit
 ├── metodos_numericos.py  # Implementação dos métodos numéricos
 ├── requirements.txt      # Dependências do projeto

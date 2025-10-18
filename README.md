@@ -1,27 +1,27 @@
-⚡ CalculusFlow
+⚡ ##CalculusFlow
 
 CalculusFlow é uma aplicação interativa desenvolvida em Python + Streamlit para comparar métodos numéricos de cálculo de zeros de funções.
 O projeto foi criado para fins educacionais na disciplina de Cálculo Numérico, permitindo explorar visualmente a eficiência dos métodos Bissecção, Falsa Posição, Newton-Raphson e Secante.
 
-🧩 Funcionalidades
+🧩 ##Funcionalidades
 
-Interface web simples e interativa feita com Streamlit
+- Interface web simples e interativa feita com Streamlit
 
-Escolha entre três problemas práticos:
+- Escolha entre três problemas práticos:
 
-Potencial magnético (função polinomial)
+- Potencial magnético (função polinomial)
 
-Concentração de bactérias
+- Concentração de bactérias
 
-Deslocamento de estruturas mecânicas
+- Deslocamento de estruturas mecânicas
 
-Comparação entre os quatro métodos iterativos clássicos
+- Comparação entre os quatro métodos iterativos clássicos
 
-Exibição de resultados em formato de tabela dinâmica (Pandas DataFrame)
+- Exibição de resultados em formato de tabela dinâmica (Pandas DataFrame)
 
-Análise textual automática explicando a velocidade, robustez e custo computacional de cada método
+- Análise textual automática explicando a velocidade, robustez e custo computacional de cada método
 
-🧠 Metodologia
+🧠 ##Metodologia
 
 O aplicativo compara os seguintes métodos:
 
@@ -36,7 +36,7 @@ git clone https://github.com/ViniciusLemosDev/Projeto_CalculoNumerico_Zeros.git
 cd Projeto_CalculoNumerico_Zeros
 
 
-💡 O repositório já contém todas as dependências necessárias listadas em requirements.txt.
+💡 ##O repositório já contém todas as dependências necessárias listadas em requirements.txt.
 
 2️⃣ (Opcional) Crie e Ative um Ambiente Virtual
 python -m venv venv
@@ -59,29 +59,30 @@ Acesse no navegador: http://localhost:8501
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Este arquivo
 
-📊 Tecnologias Utilizadas
+📊 ##Tecnologias Utilizadas
 
-Python 3.11+
+- Python 3.11+
 
-Streamlit → Interface web interativa
+- Streamlit → Interface web interativa
 
-Sympy → Manipulação simbólica e cálculo de derivadas
+- Sympy → Manipulação simbólica e cálculo de derivadas
 
-Pandas → Organização e exibição dos resultados
+- Pandas → Organização e exibição dos resultados
 
-Tabulate → Formatação dos dados numéricos (para testes de terminal)
+- Tabulate → Formatação dos dados numéricos (para testes de terminal)
 
-👨‍💻 Autores
+👨‍💻 ##Autores
 Nome	Função
 Vinicius Lemos de Carvalho	Desenvolvimento do app Streamlit e integração geral
 Eduardo Medeiros Magalhães	Implementação e testes dos métodos numéricos
-Maksimo	Documentação, revisão e análise teórica dos métodos
-📘 Licença
+Maksimo Marques Laurindo  	Documentação, revisão e análise teórica dos métodos
+
+📘 ##Licença
 
 Este projeto foi desenvolvido apenas para fins educacionais.
 Sinta-se livre para clonar, estudar e modificar o código para aprendizado.
 
-🧩 Exemplo de Uso
+🧩 ##Exemplo de Uso
 
 Escolha um dos problemas no painel lateral.
 

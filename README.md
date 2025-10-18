@@ -34,6 +34,7 @@ Secante	Ponto Fixo (sem derivada)	Boa alternativa ao Newton-Raphson
 🚀 Como Executar o Projeto
 
 1️⃣ Clone o Repositório
+
 `git clone https://github.com/ViniciusLemosDev/Projeto_CalculoNumerico_Zeros.git
 
 cd Projeto_CalculoNumerico_Zeros`
@@ -44,9 +45,7 @@ cd Projeto_CalculoNumerico_Zeros`
 2️⃣ (Opcional) Crie e Ative um Ambiente Virtual
 
 `python -m venv venv
-
 venv\Scripts\activate   # no Windows
-
 source venv/bin/activate  # no Linux/Mac`
 
 3️⃣ Instale as Dependências

@@ -1,4 +1,4 @@
-⚡ ##CalculusFlow
+##⚡ CalculusFlow
 
 CalculusFlow é uma aplicação interativa desenvolvida em Python + Streamlit para comparar métodos numéricos de cálculo de zeros de funções.
 O projeto foi criado para fins educacionais na disciplina de Cálculo Numérico, permitindo explorar visualmente a eficiência dos métodos Bissecção, Falsa Posição, Newton-Raphson e Secante.

@@ -1,9 +1,9 @@
-##⚡ CalculusFlow
+⚡ **CalculusFlow**
 
 CalculusFlow é uma aplicação interativa desenvolvida em Python + Streamlit para comparar métodos numéricos de cálculo de zeros de funções.
 O projeto foi criado para fins educacionais na disciplina de Cálculo Numérico, permitindo explorar visualmente a eficiência dos métodos Bissecção, Falsa Posição, Newton-Raphson e Secante.
 
-🧩 ##Funcionalidades
+🧩 **Funcionalidades**
 
 - Interface web simples e interativa feita com Streamlit
 
@@ -21,7 +21,7 @@ O projeto foi criado para fins educacionais na disciplina de Cálculo Numérico,
 
 - Análise textual automática explicando a velocidade, robustez e custo computacional de cada método
 
-🧠 ##Metodologia
+🧠 **Metodologia**
 
 O aplicativo compara os seguintes métodos:
 
@@ -36,7 +36,7 @@ git clone https://github.com/ViniciusLemosDev/Projeto_CalculoNumerico_Zeros.git
 cd Projeto_CalculoNumerico_Zeros
 
 
-💡 ##O repositório já contém todas as dependências necessárias listadas em requirements.txt.
+💡 **O repositório já contém todas as dependências necessárias listadas em requirements.txt.**
 
 2️⃣ (Opcional) Crie e Ative um Ambiente Virtual
 python -m venv venv
@@ -59,7 +59,7 @@ Acesse no navegador: http://localhost:8501
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Este arquivo
 
-📊 ##Tecnologias Utilizadas
+📊 **Tecnologias Utilizadas**
 
 - Python 3.11+
 
@@ -71,18 +71,18 @@ Acesse no navegador: http://localhost:8501
 
 - Tabulate → Formatação dos dados numéricos (para testes de terminal)
 
-👨‍💻 ##Autores
+👨‍💻 **Autores**
 Nome	Função
 Vinicius Lemos de Carvalho	Desenvolvimento do app Streamlit e integração geral
 Eduardo Medeiros Magalhães	Implementação e testes dos métodos numéricos
 Maksimo Marques Laurindo  	Documentação, revisão e análise teórica dos métodos
 
-📘 ##Licença
+📘 **Licença**
 
 Este projeto foi desenvolvido apenas para fins educacionais.
 Sinta-se livre para clonar, estudar e modificar o código para aprendizado.
 
-🧩 ##Exemplo de Uso
+🧩 **Exemplo de Uso**
 
 Escolha um dos problemas no painel lateral.
 
